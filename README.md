@@ -22,6 +22,10 @@ Project ivory, is a project that targets making a fifty android open source appl
 | ------------- |
 | ![Configuration Screenshot](https://github.com/ranger163/OnboardingFreebi/blob/master/screenshoot/00-preview.png) |
 
+|    [#3- Sliding Menu Navigation](https://github.com/ranger163/SlidingMenuNavigation)   |
+| ------------- |
+| ![Configuration Screenshot](https://github.com/ranger163/SlidingMenuNavigation/blob/master/screenshoot/0-preview.jpg) |
+
 ## Hire Me
 I'm ready for a full-time or a freelancing job, just drop me an email [here](https://www.inassar.me) and let's do our chating.
 
