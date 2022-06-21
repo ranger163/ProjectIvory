@@ -16,19 +16,23 @@ Project ivory, is a project that targets making a fifty android open source appl
 
 |    [#1- Profile Freebie](https://github.com/ranger163/ProfileFreebie)   |
 | ------------- |
-| ![Configuration Screenshot](https://github.com/ranger163/ProfileFreebie/blob/master/screenshoot/0-preview.png) |
+| <img src="https://github.com/ranger163/ProfileFreebie/blob/master/screenshoot/0-preview.png" width="1000" height="650"> |
 
 |    [#2- Onboarding Freebie](https://github.com/ranger163/OnboardingFreebi)   |
 | ------------- |
-| ![Configuration Screenshot](https://github.com/ranger163/OnboardingFreebi/blob/master/screenshoot/00-preview.png) |
+| <img src="https://github.com/ranger163/OnboardingFreebi/blob/master/screenshoot/00-preview.png" width="1000" height="650"> |
 
 |    [#3- Sliding Menu Navigation](https://github.com/ranger163/SlidingMenuNavigation)   |
 | ------------- |
-| ![Configuration Screenshot](https://github.com/ranger163/SlidingMenuNavigation/blob/master/screenshoot/0-preview.jpg) |
+| <img src="https://github.com/ranger163/SlidingMenuNavigation/blob/master/screenshoot/0-preview.jpg" width="1000" height="650"> |
 
 |    [#4- Social App](https://github.com/ranger163/SocialApp)   |
 | ------------- |
-| ![Configuration Screenshot](https://assets.materialup.com/uploads/d1271105-9124-4faa-88bb-b91c085faf11/attachment.png) |
+| <img src="https://assets.materialup.com/uploads/d1271105-9124-4faa-88bb-b91c085faf11/attachment.png" width="1000" height="650"> |
+
+|    [#5- Social App](https://github.com/ranger163/SocialApp)   |
+| ------------- |
+| <img src="https://assets.materialup.com/uploads/9507565a-6f70-4814-964e-72e378a77769/preview.jpg" width="1000" height="650"> |
 
 
 ## Hire Me
